@@ -95,6 +95,11 @@ public class ProblemSet4 {
      */
     
     public void average() {
+		
+		System.out.println("Enter a Series of Positive Intergers.");
+		Scanner in = new Scanner(System.in);  
+		int average = in.nextInt();
+		if ( average > 0 ){
 
     }
     
