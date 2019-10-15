@@ -63,7 +63,16 @@ public class ProblemSet4 {
      */
     
     public void reverse() {
-
+		System.out.println("Enter a Positive Interger.");
+		Scanner in = new Scanner(System.in);  
+		int Positive = in.nextInt();
+		if ( Positive > 0 ){
+			System.out.println("Positive interger: " + Positive );
+			System.out.println("\nnice");
+		} else {
+			System.out.println("Positive interger: " + Positive );
+		}
+		
     }
     
     /*
