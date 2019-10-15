@@ -13,7 +13,7 @@
  * requirements set forth in this section (as well as the *Deliverables* section).
  * 
  * Work through these exercises on your own. Experiment, make mistakes, ask
- * questions, and fix your mistakes. It's the only way to get good at programming.
+ * questions, and fix your mistakes. It's the only way to get good at programming..
  */
 
 import java.util.Scanner;
